@@ -1,0 +1,3 @@
+[submodule "00_missing-semester"]
+	path = 00_missing-semester
+	url = git@github.com:Zweisamkeiten/Missing-semester-2020-MIT.git
