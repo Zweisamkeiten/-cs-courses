@@ -5,3 +5,7 @@
 	path = 01_cs61a-2021fall
 	url = git@github.com:Zweisamkeiten/cs61a-2021fall.git
 	branch = notes
+[submodule "02_duke_learn2prog"]
+	path = 02_duke_learn2prog
+	url = git@github.com:Zweisamkeiten/duke-learn2prog.git
+	branch = notes
